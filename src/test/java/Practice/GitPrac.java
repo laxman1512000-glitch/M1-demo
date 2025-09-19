@@ -6,7 +6,7 @@ public class GitPrac {
 	@Test
 	public void sample()
 	{
-		System.out.println("HI");
+		System.out.println("HI12345");
 	}
 
 }
